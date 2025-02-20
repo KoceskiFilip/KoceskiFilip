@@ -33,6 +33,7 @@ Welcome to my GitHub profile!
 
 #### 📫 How to reach me:
 - ✉️ Email: [filip.koceski1@gmail.com]
+-           private mail - [filip.koceski2001@gmail.com] 
 - 🔗 LinkedIn: [linkedin.com/in/filip-koceski-7bb7b1262]
 
 ---
