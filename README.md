@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, I'm Filip Koceski 👋
 
-<!--
-**KoceskiFilip/KoceskiFilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on java projects...
-- 🌱 I’m currently learning java, c, c++, python...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with coding...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+#### 🚀 About Me:
+- 💻 Passionate about programming and game development
+- 🎮 Currently working on *The Fallen Citadel* — a 2D pixelated action-adventure game
+- 🐍 Experienced in Python and Pygame
+- ⚡ Exploring web development and software engineering
+- 📚 Always learning new technologies and improving my skills
 
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Technologies & Tools:
+- **Languages:** Python, Java
+- **Frameworks:** Pygame, Tomcat 10
+- **Tools:** Git, VSCode, Linux
+- **Other Skills:** Game mechanics, character animation, collision detection
+
+---
+
+#### 📈 GitHub Stats:
+![Filip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoceskiFilip&show_icons=true&theme=radical)
+
+---
+
+#### 💡 Featured Project:
+- 🎮 **The Fallen Citadel**: A dark fantasy RPG with 5 unique classes (Knight, Mage, Rogue, Cleric, Necromancer). Follow its development [here](https://github.com/KoceskiFilip/The-Fallen-Citadel).
+
+---
+
+#### 📫 How to reach me:
+- ✉️ Email: [filip.koceski1@gmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/filip-koceski-7bb7b1262]
+
+---
+
+#### ⚡ Fun Fact:
+> "Code, game, repeat — the grind never stops!"
+
+Thanks for visiting my profile! ⭐ If you like my projects, feel free to star them!
+
