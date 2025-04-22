@@ -14,8 +14,8 @@ Welcome to my GitHub profile!
 ---
 
 #### 🔧 Technologies & Tools:
-- **Languages:** Python, Java
-- **Frameworks:** Pygame, Tomcat 10
+- **Languages:** Python, Java, C, C++
+- **Frameworks:** Pygame, Tomcat 10, 
 - **Tools:** Git, VSCode, Linux
 - **Other Skills:** Game mechanics, character animation, collision detection
 
